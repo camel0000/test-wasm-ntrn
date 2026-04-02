@@ -1016,6 +1016,7 @@ dependencies = [
 name = "test_cosmwasm_ntrn"
 version = "0.1.0"
 dependencies = [
+ "cosmwasm-schema",
  "cosmwasm-std",
  "cw20-base",
 ]
