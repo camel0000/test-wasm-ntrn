@@ -1,5 +1,5 @@
 {
-  "contract_name": "test_cosmwasm_ntrn",
+  "contract_name": "test-cosmwasm-ntrn",
   "contract_version": "0.1.0",
   "idl_version": "1.0.0",
   "instantiate": {

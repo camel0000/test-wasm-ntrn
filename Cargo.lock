@@ -1013,7 +1013,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "test_cosmwasm_ntrn"
+name = "test-cosmwasm-ntrn"
 version = "0.1.0"
 dependencies = [
  "cosmwasm-schema",
